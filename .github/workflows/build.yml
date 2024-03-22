@@ -844,3 +844,5 @@ jobs:
   #           tic80-linux-pro
   #           tic80-rpi-deb-pro
   #           tic80-rpi-pro
+
+  # trigger push
